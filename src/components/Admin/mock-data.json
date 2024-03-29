@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "Nguyễn Hoài Khang",
+      "address": "Khu phố Tân Lập, Phường Đông Hòa, TP. Dĩ An, Tỉnh Bình Dương",
+      "phoneNumber": "0732451327",
+      "email": "khang@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Vũ Trường Khoa",
+      "address": "Khu phố Tân Lập, Phường Đông Hòa, TP. Dĩ An, Tỉnh Bình Dương",
+      "phoneNumber": "0732839974",
+      "email": "khoa@gmail.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Nguyễn Minh Thanh",
+      "address": "Khu phố Tân Lập, Phường Đông Hòa, TP. Dĩ An, Tỉnh Bình Dương",
+      "phoneNumber": "0732940982",
+      "email": "thanh@gmail.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Trịnh Khải Toàn",
+      "address": "Khu phố Tân Lập, Phường Đông Hòa, TP. Dĩ An, Tỉnh Bình Dương",
+      "phoneNumber": "0732430085",
+      "email": "toan@gmail.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Phạm Hữu Huy",
+      "address": "Khu phố Tân Lập, Phường Đông Hòa, TP. Dĩ An, Tỉnh Bình Dương",
+      "phoneNumber": "0732945755",
+      "email": "huy@gmail.com"
+    }
+]
